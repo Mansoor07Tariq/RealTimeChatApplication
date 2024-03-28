@@ -1,0 +1,26 @@
+# Python/Django
+*.pyc
+__pycache__
+*.sqlite3
+*.pyo
+*.pyc
+*.pyd
+*.py~
+
+# Django development settings
+*.DS_Store
+.venv
+venv/
+
+# Logs
+logs
+*.log
+
+# Static files
+staticfiles
+
+# Media
+media
+
+# Node.js / npm
+frontend/node_modules/
